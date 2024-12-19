@@ -2,6 +2,7 @@
 Topic : Library Management System 
 To build a project based on Library Management System.
 It keeps track of all information about books in the library, their cost, status and total number of books available in the library. 
+
 Create a database named LIBRARY and following TABLES in the database with Attributes     
 1. Branch
      Branch_no - Set as PRIMARY KEY Manager_Id Branch_address Contact_no
